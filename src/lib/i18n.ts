@@ -1,6 +1,6 @@
 export const translations = {
   en: {
-    title: "Lakshmikanth | Web Developer & Invitation Designer",
+    title: "Lakshmikanth | Web Developer & Business Website Designer",
     heading: "My Projects",
     subtitle: "A collection of websites and applications I've built",
     switchLang: "ಕನ್ನಡ",
@@ -10,11 +10,11 @@ export const translations = {
     heroName: "Lakshmikanth",
     heroTagline: "crafting the web, one site at a time.",
     heroSubTagline:
-      "From college portals to digital invitations — I build fast, responsive, and meaningful web experiences that leave a lasting impression.",
+      "From college portals to business websites and digital invitations — I build fast, responsive, and meaningful web experiences that leave a lasting impression.",
     heroLocation: "Web developer from Karnataka, India",
     heroAbout:
-      "I'm Lakshmikanth — a passionate web developer from Karnataka. From college portals to digital invitations, I build responsive and memorable web experiences that serve real people with real needs.",
-    heroRole: "Web Developer & Invitation Designer",
+      "I'm Lakshmikanth — a passionate web developer from Karnataka. From college portals to business websites and digital invitations, I build responsive and memorable web experiences that serve real people with real needs.",
+    heroRole: "Web Developer & Business Website Designer",
     heroDesc: "Building fast, responsive web experiences from Karnataka, India.",
     viewProjects: "View Projects",
     contactBtn: "Contact Me",
@@ -32,16 +32,19 @@ export const translations = {
     skillsInviteDesc: "WhatsApp-ready wedding & engagement invitations that wow guests.",
     skillsLandingTitle: "Custom Landing Pages",
     skillsLandingDesc: "Fast, beautiful event sites and custom landing pages built to convert.",
+    skillsBusinessTitle: "Business Websites",
+    skillsBusinessDesc: "Professional websites for businesses — modern, SEO-optimized, and conversion-focused.",
     // Portfolio section
     filterAll: "All",
     filterCollege: "College",
     filterInvitation: "Invitations",
+    filterResort: "Resorts",
     projectsHeading: "Featured Projects",
     projectsSubheading: "Real websites built for real people",
     // Contact
     contactHeading: "Get in Touch",
     contactSub:
-      "Have a project in mind? Whether it's a college website or a wedding invitation — let's build something beautiful together.",
+      "Have a project in mind? Whether it's a college website, business website, or a wedding invitation — let's build something beautiful together.",
     contactEmailLabel: "Send an Email",
     contactWaLabel: "Chat on WhatsApp",
     contactAvailability: "Available for new projects",
@@ -50,7 +53,7 @@ export const translations = {
     footerCopyright: "All rights reserved.",
   },
   ka: {
-    title: "ಲಕ್ಷ್ಮೀಕಾಂತ | ಪೋರ್ಟ್‌ಫೋಲಿಯೊ",
+    title: "ಲಕ್ಷ್ಮೀಕಾಂತ | ವೆಬ್ ಡೆವಲಪರ್ & ವ್ಯಾಪಾರಿಕ ವೆಬ್‌ಸೈಟ್ ವಿನ್ಯಾಸಕ",
     heading: "ನನ್ನ ಯೋಜನೆಗಳು",
     subtitle: "ನಾನು ನಿರ್ಮಿಸಿದ ವೆಬ್‌ಸೈಟ್‌ಗಳು ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್‌ಗಳ ಸಂಗ್ರಹ",
     switchLang: "English",
@@ -60,11 +63,11 @@ export const translations = {
     heroName: "ಲಕ್ಷ್ಮೀಕಾಂತ",
     heroTagline: "ಒಂದೊಂದೇ ಸೈಟ್, ವೆಬ್ ಕಟ್ಟುತ್ತೇನೆ.",
     heroSubTagline:
-      "ಕಾಲೇಜ್ ಪೋರ್ಟಲ್‌ಗಳಿಂದ ಡಿಜಿಟಲ್ ಆಮಂತ್ರಣಗಳವರೆಗೆ — ನಾನು ನೆನಪಿನಲ್ಲಿ ಉಳಿಯುವ ಅನುಭವಗಳನ್ನು ನಿರ್ಮಿಸುತ್ತೇನೆ.",
+      "ಕಾಲೇಜ್ ಪೋರ್ಟಲ್‌ಗಳಿಂದ ವ್ಯಾಪಾರಿಕ ವೆಬ್‌ಸೈಟ್‌ಗಳು ಮತ್ತು ಡಿಜಿಟಲ್ ಆಮಂತ್ರಣಗಳವರೆಗೆ — ನಾನು ನೆನಪಿನಲ್ಲಿ ಉಳಿಯುವ ಅನುಭವಗಳನ್ನು ನಿರ್ಮಿಸುತ್ತೇನೆ.",
     heroLocation: "ಕರ್ನಾಟಕ, ಭಾರತದ ವೆಬ್ ಡೆವಲಪರ್",
     heroAbout:
-      "ನಾನು ಲಕ್ಷ್ಮೀಕಾಂತ — ಕರ್ನಾಟಕದ ಉತ್ಸಾಹಿ ವೆಬ್ ಡೆವಲಪರ್. ಕಾಲೇಜ್ ಪೋರ್ಟಲ್‌ಗಳಿಂದ ಡಿಜಿಟಲ್ ಆಮಂತ್ರಣಗಳವರೆಗೆ, ನಾನು ನಿಜ ಜನರ ಅಗತ್ಯಗಳಿಗಾಗಿ ಪ್ರತಿಕ್ರಿಯಾಶೀಲ ಅನುಭವಗಳನ್ನು ನಿರ್ಮಿಸುತ್ತೇನೆ.",
-    heroRole: "ವೆಬ್ ಡೆವಲಪರ್ & ಆಮಂತ್ರಣ ವಿನ್ಯಾಸಕ",
+      "ನಾನು ಲಕ್ಷ್ಮೀಕಾಂತ — ಕರ್ನಾಟಕದ ಉತ್ಸಾಹಿ ವೆಬ್ ಡೆವಲಪರ್. ಕಾಲೇಜ್ ಪೋರ್ಟಲ್‌ಗಳಿಂದ ವ್ಯಾಪಾರಿಕ ವೆಬ್‌ಸೈಟ್‌ಗಳು ಮತ್ತು ಡಿಜಿಟಲ್ ಆಮಂತ್ರಣಗಳವರೆಗೆ, ನಾನು ನಿಜ ಜನರ ಅಗತ್ಯಗಳಿಗಾಗಿ ಪ್ರತಿಕ್ರಿಯಾಶೀಲ ಅನುಭವಗಳನ್ನು ನಿರ್ಮಿಸುತ್ತೇನೆ.",
+    heroRole: "ವೆಬ್ ಡೆವಲಪರ್ & ವ್ಯಾಪಾರಿಕ ವೆಬ್‌ಸೈಟ್ ವಿನ್ಯಾಸಕ",
     heroDesc: "ನಾನು ಆಧುನಿಕ, ಪ್ರತಿಕ್ರಿಯಾಶೀಲ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ನಿರ್ಮಿಸುತ್ತೇನೆ.",
     viewProjects: "ಯೋಜನೆಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
     contactBtn: "ಸಂಪರ್ಕಿಸಿ",
@@ -82,16 +85,19 @@ export const translations = {
     skillsInviteDesc: "WhatsApp-ಸಿದ್ಧ ವಿವಾಹ & ನಿಶ್ಚಿತಾರ್ಥ ಆಮಂತ್ರಣಗಳು.",
     skillsLandingTitle: "ಕಸ್ಟಮ್ ಲ್ಯಾಂಡಿಂಗ್ ಪೇಜ್‌ಗಳು",
     skillsLandingDesc: "ಕಾರ್ಯಕ್ರಮ ಸೈಟ್‌ಗಳು ಮತ್ತು ಕಸ್ಟಮ್ ಲ್ಯಾಂಡಿಂಗ್ ಪೇಜ್‌ಗಳು.",
+    skillsBusinessTitle: "ವ್ಯಾಪಾರಿಕ ವೆಬ್‌ಸೈಟ್‌ಗಳು",
+    skillsBusinessDesc: "ವ್ಯಾಪಾರಗಳಿಗಾಗಿ ವೃತ್ತಿಪರ ವೆಬ್‌ಸೈಟ್‌ಗಳು — ಆಧುನಿಕ, SEO-ಅನುಕೂಲಿತ, ಮತ್ತು ಪರಿವರ್ತನ-ಕೇಂದ್ರಿತ.",
     // Portfolio section
     filterAll: "ಎಲ್ಲಾ",
     filterCollege: "ಕಾಲೇಜ್",
     filterInvitation: "ಆಮಂತ್ರಣಗಳು",
+    filterResort: "ರೆಸಾರ್ಟ್ಗಳು",
     projectsHeading: "ಯೋಜನೆಗಳು",
     projectsSubheading: "ನಿಜ ಜನರಿಗಾಗಿ ನಿರ್ಮಿಸಿದ ವೆಬ್‌ಸೈಟ್‌ಗಳು",
     // Contact
     contactHeading: "ಸಂಪರ್ಕಿಸಿ",
     contactSub:
-      "ಒಂದು ಯೋಜನೆ ಮನಸ್ಸಿನಲ್ಲಿ ಇದೆಯೇ? ಕಾಲೇಜ್ ವೆಬ್‌ಸೈಟ್ ಆಗಲಿ ಅಥವಾ ವಿವಾಹ ಆಮಂತ್ರಣ ಆಗಲಿ — ಒಟ್ಟಿಗೆ ಏನಾದರೂ ಸುಂದರವಾದದ್ದನ್ನು ನಿರ್ಮಿಸೋಣ.",
+      "ಒಂದು ಯೋಜನೆ ಮನಸ್ಸಿನಲ್ಲಿ ಇದೆಯೇ? ಕಾಲೇಜ್ ವೆಬ್‌ಸೈಟ್, ವ್ಯಾಪಾರಿಕ ವೆಬ್‌ಸೈಟ್ ಅಥವಾ ವಿವಾಹ ಆಮಂತ್ರಣ ಆಗಲಿ — ಒಟ್ಟಿಗೆ ಏನಾದರೂ ಸುಂದರವಾದದ್ದನ್ನು ನಿರ್ಮಿಸೋಣ.",
     contactEmailLabel: "ಇಮೇಲ್ ಕಳುಹಿಸಿ",
     contactWaLabel: "WhatsApp ನಲ್ಲಿ ಮಾತನಾಡಿ",
     contactAvailability: "ಹೊಸ ಯೋಜನೆಗಳಿಗೆ ಲಭ್ಯ",

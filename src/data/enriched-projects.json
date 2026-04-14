@@ -36,10 +36,8 @@
       "ಶಿಕ್ಷಣ"
     ],
     "category": "college",
-    "previewUrl": "http://saccngm.edu.in/wp-content/uploads/2017/01/DSC06263-scaled.jpg",
-    "useIframe": false,
-    "ogTitle": "ಶ್ರೀ ಆದಿಚುಂಚನಗಿರಿ ಕಲಾ ಮತ್ತು ವಾಣಿಜ್ಯ ಕಾಲೇಜು | SACCNGM",
-    "ogDescription": "ಸ್ವಾಗತ ಶ್ರೀ ಆದಿಚುಂಚನಗಿರಿ ಕಲಾ ಮತ್ತು ವಾಣಿಜ್ಯ ಕಾಲೇಜು, ನಾಗಮಂಗಲ ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯದ ಮಾನ್ಯತೆಗೆ ಒಳಪಟ್ಟಿದೆ ನ್ಯಾಕ್ ಸಂಸ್ಥೆಯಿಂದ ‘ಬಿ+’ ಗ್ರೇಡ್ ಮಾನ್ಯತೆ ಪಡೆದಿದೆ SACC ಗೆ ಸ್ವಾಗತ ಪುರಾಣ ಪ್ರಸಿದ್ಧ ಶ್ರೀ ಆದಿಚುಂಚನಗಿರಿ ಮಠವು ಅನ್ನ ದಾಸೋಹಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿರುವಂತೆಯೇ ದಿನಾಂಕ &hellip; Continue reading ಶ್ರೀ ಆದಿಚುಂಚನಗಿರಿ ಕಲಾ ಮತ್ತು ವಾಣಿಜ್ಯ ಕಾಲೇಜು"
+    "previewUrl": null,
+    "useIframe": true
   },
   {
     "id": "lakshmaan",
@@ -100,6 +98,28 @@
       "ವಾಟ್ಸ್‌ಆಪ್"
     ],
     "category": "invitation",
+    "previewUrl": null,
+    "useIframe": true
+  },
+  {
+    "id": "maravakandy",
+    "url": "https://thebigcatsden.in/",
+    "nameEn": "Maravakandy Resort - The Big Cat's Den",
+    "nameKa": "ಮರವಕಂಡಿ ರಿಸಾರ್ಟ್ - ಬಿಗ್ ಕ್ಯಾಟ್ಸ್ ಡೆನ್",
+    "screenshotPath": null,
+    "tagsEn": [
+      "Resort",
+      "Luxury",
+      "Nature",
+      "Wildlife"
+    ],
+    "tagsKa": [
+      "ರಿಸಾರ್ಟ್",
+      "ಲಕ್ಷರಿ",
+      "ನೈಸರ್ಗಿಕ",
+      "ವನ್ಯಜೀವಿ"
+    ],
+    "category": "resort",
     "previewUrl": null,
     "useIframe": true
   }

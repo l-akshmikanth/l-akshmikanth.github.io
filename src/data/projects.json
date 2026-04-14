@@ -48,5 +48,15 @@
     "tagsEn": ["Invitation", "Event", "WhatsApp-Ready"],
     "tagsKa": ["ಆಮಂತ್ರಣ", "ಕಾರ್ಯಕ್ರಮ", "ವಾಟ್ಸ್‌ಆಪ್"],
     "category": "invitation"
+  },
+  {
+    "id": "maravakandy",
+    "url": "https://thebigcatsden.in/",
+    "nameEn": "Maravakandy Resort - The Big Cat's Den",
+    "nameKa": "ಮರವಕಂಡಿ ರೆಸಾರ್ಟ್ - ಬಿಗ್ ಕ್ಯಾಟ್ಸ್ ಡೆನ್",
+    "screenshotPath": null,
+    "tagsEn": ["Resort", "Luxury", "Nature", "Wildlife"],
+    "tagsKa": ["ರೆಸಾರ್ಟ್", "ಐಷಾರಾಮಿ", "ನೈಸರ್ಗಿಕ", "ವನ್ಯಜೀವಿ"],
+    "category": "resort"
   }
 ]

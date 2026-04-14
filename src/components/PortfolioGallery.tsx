@@ -10,7 +10,7 @@ interface PortfolioGalleryProps {
   locale: Locale;
 }
 
-type Filter = "all" | "college" | "invitation";
+type Filter = "all" | "college" | "invitation" | "resort";
 
 export default function PortfolioGallery({ projects, locale }: PortfolioGalleryProps) {
   const t = translations[locale];
@@ -31,6 +31,7 @@ export default function PortfolioGallery({ projects, locale }: PortfolioGalleryP
     { key: "all", label: t.filterAll },
     { key: "college", label: t.filterCollege },
     { key: "invitation", label: t.filterInvitation },
+    { key: "resort", label: t.filterResort },
   ];
 
   const filtered = projects.filter((p) =>

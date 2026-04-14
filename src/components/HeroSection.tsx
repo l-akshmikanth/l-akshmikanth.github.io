@@ -7,8 +7,8 @@ interface HeroSectionProps {
   locale: Locale;
 }
 
-const ROLES = ["Web Developer", "Invitation Designer", "UI Craftsman"];
-const ROLES_KA = ["ವೆಬ್ ಡೆವಲಪರ್", "ಆಮಂತ್ರಣ ವಿನ್ಯಾಸಕ", "UI ಕ್ರಾಫ್ಟ್ಸ್‌ಮ್ಯಾನ್"];
+const ROLES = ["Web Developer", "Business Website Designer", "Invitation Designer", "UI Craftsman"];
+const ROLES_KA = ["ವೆಬ್ ಡೆವಲಪರ್", "ವ್ಯಾಪಾರಿಕ ವೆಬ್‌ಸೈಟ್ ವಿನ್ಯಾಸಕ", "ಆಮಂತ್ರಣ ವಿನ್ಯಾಸಕ", "UI ಕ್ರಾಫ್ಟ್ಸ್‌ಮ್ಯಾನ್"];
 
 export default function HeroSection({ locale }: HeroSectionProps) {
   const t = translations[locale];
