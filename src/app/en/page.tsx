@@ -24,6 +24,27 @@ try {
 export const metadata: Metadata = {
   title: translations.en.title,
   description: translations.en.heroDesc,
+  openGraph: {
+    title: translations.en.title,
+    description: "From college portals to business websites and digital invitations — I build responsive web experiences that leave a lasting impression.",
+    url: "https://l-akshmikanth.github.io/en/",
+    siteName: "Lakshmikanth Portfolio",
+    type: "website",
+    images: [
+      {
+        url: "https://l-akshmikanth.github.io/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Lakshmikanth — Web Developer & Business Website Designer",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: translations.en.title,
+    description: "Building fast, responsive web experiences from Karnataka, India.",
+    images: ["https://l-akshmikanth.github.io/og-image.png"],
+  },
 };
 
 export default function EnglishPage() {
