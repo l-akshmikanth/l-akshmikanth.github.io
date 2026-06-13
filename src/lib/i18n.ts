@@ -39,6 +39,7 @@ export const translations = {
     filterCollege: "College",
     filterInvitation: "Invitations",
     filterResort: "Resorts",
+    filterBusiness: "Business",
     projectsHeading: "Featured Projects",
     projectsSubheading: "Real websites built for real people",
     // Contact
@@ -92,6 +93,7 @@ export const translations = {
     filterCollege: "ಕಾಲೇಜ್",
     filterInvitation: "ಆಮಂತ್ರಣಗಳು",
     filterResort: "ರೆಸಾರ್ಟ್ಗಳು",
+    filterBusiness: "ವ್ಯಾಪಾರ",
     projectsHeading: "ಯೋಜನೆಗಳು",
     projectsSubheading: "ನಿಜ ಜನರಿಗಾಗಿ ನಿರ್ಮಿಸಿದ ವೆಬ್‌ಸೈಟ್‌ಗಳು",
     // Contact

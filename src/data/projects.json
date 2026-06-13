@@ -58,5 +58,25 @@
     "tagsEn": ["Resort", "Luxury", "Nature", "Wildlife"],
     "tagsKa": ["ರೆಸಾರ್ಟ್", "ಐಷಾರಾಮಿ", "ನೈಸರ್ಗಿಕ", "ವನ್ಯಜೀವಿ"],
     "category": "resort"
+  },
+  {
+    "id": "sankalpa",
+    "url": "https://sankalpablrfoundation.in/",
+    "nameEn": "Sankalpa Foundation",
+    "nameKa": "ಸಂಕಲ್ಪ ಫೌಂಡೇಶನ್",
+    "screenshotPath": null,
+    "tagsEn": ["Foundation", "NGO", "Responsive"],
+    "tagsKa": ["ಸಂಸ್ಥೆ", "ಎನ್‌ಜಿಒ", "ಪ್ರತಿಕ್ರಿಯಾಶೀಲ"],
+    "category": "business"
+  },
+  {
+    "id": "bhaskar-tax",
+    "url": "https://ndbhaskar.github.io/",
+    "nameEn": "Bhaskar Tax Consultant",
+    "nameKa": "ಭಾಸ್ಕರ ತೆರಿಗೆ ಸಲಹೆಗಾರ",
+    "screenshotPath": null,
+    "tagsEn": ["Business", "Tax", "Professional"],
+    "tagsKa": ["ವ್ಯಾಪಾರ", "ತೆರಿಗೆ", "ವೃತ್ತಿಪರ"],
+    "category": "business"
   }
 ]
